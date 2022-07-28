@@ -117,15 +117,14 @@ export function Pricing() {
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
             name="Starter"
-            price="$9"
-            description="Good for anyone who is self-employed and just getting started."
+            price="$"
+            description="For getting creators started with our base package."
             href="/register"
             features={[
-              'Send 10 quotes and invoices',
-              'Connect up to 2 bank accounts',
-              'Track up to 15 expenses per month',
-              'Manual payroll support',
-              'Export up to 3 reports',
+              'Production services: Hands-on A-List producer service from concept to release of your television & film IP',
+              'Accounting platform to keep production on track up every step of the way: Smart AI powered software to keep your production on target through creative process and life cycle.',
+              'Television series and feature film branded website',
+              'Website and Personalized NFT: Hosted branded marketplace on your own site, cross-chain integrations for your community',
             ]}
           />
           <Plan
