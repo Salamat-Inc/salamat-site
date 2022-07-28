@@ -28,8 +28,8 @@ export function Hero() {
         for small businesses.
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-        Most bookkeeping software is accurate, but hard to use. We make the
-        opposite trade-off, and hope you don’t get audited.
+        Salamat Inc. leverages, seasoned Lucasfilm veterans, and our expansive network of technology and entertainment industry established content creators and rising talent. Through a new web3 creator model, highlighting A-List talent, we enable artists, content creators and NFT owners to retain ownership and creative control for their intellectual properties. We are challenging the traditional Hollywood model by granting ownership of IP to creators including box office revenue, distribution revenue, and other verticals, ranging from video games, streaming, merchandise etc.  
+
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Get 6 months free</Button>
@@ -48,7 +48,7 @@ export function Hero() {
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
-          Trusted by these six companies so far
+          Creators by these six companies so far
         </p>
         <ul
           role="list"
