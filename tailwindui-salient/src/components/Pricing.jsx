@@ -105,13 +105,12 @@ export function Pricing() {
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl">
             <span className="relative whitespace-nowrap">
               <SwirlyDoodle className="absolute top-1/2 left-0 h-[1em] w-full fill-blue-400" />
-              <span className="relative">Simple pricing,</span>
+              <span className="relative">Package Pricing</span>
             </span>{' '}
-            for everyone.
+            For Creators Across All Stages.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            It doesn’t matter what size your business is, our software won’t
-            work well for you.
+            Salamat meets you where you are in your creator journey.
           </p>
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
@@ -123,37 +122,32 @@ export function Pricing() {
             features={[
               'Production services: Hands-on A-List producer service from concept to release of your television & film IP',
               'Accounting platform to keep production on track up every step of the way: Smart AI powered software to keep your production on target through creative process and life cycle.',
-              'Television series and feature film branded website',
+              'Television series and feature film branded website  customization',
               'Website and Personalized NFT: Hosted branded marketplace on your own site, cross-chain integrations for your community',
             ]}
           />
           <Plan
             featured
-            name="Small business"
-            price="$15"
-            description="Perfect for small / medium sized businesses."
+            name="Enterprise"
+            price="$$"
+            description="Perfect for seasoned creators."
             href="/register"
             features={[
-              'Send 25 quotes and invoices',
-              'Connect up to 5 bank accounts',
-              'Track up to 50 expenses per month',
-              'Automated payroll support',
-              'Export up to 12 reports',
-              'Bulk reconcile transactions',
-              'Track in multiple currencies',
+              'All of Starter Package with add-ons.',
+              'Pitch Platform: MINEO sign-up',
+              'Select Partner Exclusive: Company add-ons via MINEO, job and pitch platform for your IP to major Hollywood Studios.',
             ]}
           />
           <Plan
-            name="Enterprise"
-            price="$39"
+            name="Premium"
+            price="$$$"
             description="For even the biggest enterprise companies."
             href="/register"
             features={[
-              'Send unlimited quotes and invoices',
-              'Connect up to 15 bank accounts',
-              'Track up to 200 expenses per month',
-              'Automated payroll support',
-              'Export up to 25 reports, including TPS',
+              'Creative Productivity Application: Track your workflow for all of your teams to ensure milestones are met successfully for all creators in time for your release date ',
+              'All of Starter and Enterprise Package features with enhancing creator platform for tracking asset productivity for creators with optional add-ons for bringing your IP to the metaverse',
+              'Optional Native and web Augmented, Mixed, Virtual, and eXtended Reality (AR VR MR XR) experience and applications', 
+              'Optional Gaming Application and Experience',
             ]}
           />
         </div>
