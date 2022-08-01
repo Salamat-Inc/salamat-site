@@ -6,25 +6,25 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Does TaxPal handle VAT?',
+      question: 'Can Salamat create my NFT?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+        'Yes, please sign up for more details.',
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
-      answer: 'Absolutely, we are happy to take your money in all forms.',
+      question: 'Can I use non-custodial wallets on my platform?',
+      answer: 'Yes.',
     },
     {
-      question: 'How do I apply for a job at TaxPal?',
+      question: 'Can I customize my own branded NFT marketplace on my website on Ethereum blockchain?',
       answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
+        'Yes.',
     },
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'What cross-chain capabilities are available with Salamat??',
       answer:
-        'TaxPal is just a software application, ultimately your books are your responsibility.',
+        'Email us for more details.',
     },
     {
       question:

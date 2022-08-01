@@ -29,7 +29,7 @@ export default function Login() {
               >
                 Sign up
               </Link>{' '}
-              for a free trial.
+              here.
             </p>
           </div>
         </div>
