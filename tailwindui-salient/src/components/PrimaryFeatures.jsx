@@ -14,13 +14,13 @@ const features = [
   {
     title: 'Payroll',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
+      "We streamline the ability to track of the cast, crew salaries, and other production costs.",
     image: screenshotPayroll,
   },
   {
-    title: 'Claim expenses',
+    title: 'Detailed expenses',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
+      "Seamlessly edit detailed information.",
     image: screenshotExpenses,
   },
   {
@@ -75,8 +75,7 @@ export function PrimaryFeatures() {
             Everything you need to run your books.
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Well everything you need if you aren’t that picky about minor
-            details like tax compliance.
+            Track expenses from beginnings of projected budget for your project.
           </p>
         </div>
         <Tab.Group
