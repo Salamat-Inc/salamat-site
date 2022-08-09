@@ -28,31 +28,31 @@ const faqs = [
     },
     {
       question:
-        'TaxPal sounds horrible but why do I still feel compelled to purchase?',
+        'How does the productivity tool work?',
       answer:
-        'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
+        'We allow creators from many backgrounds, from 2D and 3D visual artists, musicians, writers and more to track their work for efficiently through exchanging information with unified UI connecting all stages of the production pipeline.',
     },
     {
       question:
-        'I found other companies called TaxPal, are you sure you can use this name?',
+        'I found other companies called working with Hollywood Studios and NFTs, how are you different?',
       answer:
-        'Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.',
+        'Most creative professionals do not have enterprise software in an end-to-end pipeline, nor are they decentralized, or have background or expertise in major Hollywood film production or web3 (anyone in the last 2 years working on NFTs is relatively new. Our all-star team has seasoned experience working in both in the technology and entertainment industry.',
     },
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question: 'How are you putting budgets on-chain?',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
+        'Using FileCoin, IPFS and other DeFi prototols, we are sharing data from our accounting software for producers on the Ethereum blockchain.',
     },
     {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it’s really better to never expect anything at all.',
+      question: 'Why would you put budgets on chain?',
+      answer: 'Hollywood has been a Black Box and not transparent for years. Web3 unlocks the capability to be clear with the fan base of our artists how their content is created, what and where it is funding..',
     },
     {
-      question: 'I lost my password, how do I get into my account?',
+      question: 'How can I get a trial version of this software platform?',
       answer:
-        'Send us an email and we will send you a copy of our latest password spreadsheet so you can find your information.',
+        'Sign up for our Substack newsletter and we will update folks outside of our existing customers when we release a new version of our software.',
     },
   ],
 ]
