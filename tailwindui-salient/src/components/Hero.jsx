@@ -32,9 +32,9 @@ export function Hero() {
 
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="/register">Get 6 months free</Button>
+        <Button href="/register">Sign up for our email list</Button>
         <Button
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          href="https://bit.ly/SalamatBOCDemo"
           variant="outline"
         >
           <svg
@@ -48,7 +48,7 @@ export function Hero() {
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
-          Creators by these six companies so far
+          Our all-star team has experience from these companies.
         </p>
         <ul
           role="list"
