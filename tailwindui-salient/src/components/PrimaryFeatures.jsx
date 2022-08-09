@@ -12,27 +12,27 @@ import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'Keep your projects budgets on track ',
     description:
-      "We streamline the ability to track of the cast, crew salaries, and other production costs.",
+      "We give you tools that allow you to access, edit, and share production costs to keep your project on track.",
     image: screenshotPayroll,
   },
   {
-    title: 'Detailed expenses',
+    title: 'Productivity Project Management Pipeline',
     description:
-      "Seamlessly edit detailed information.",
+      "We streamline the life cycle of asset creation from conception to final release on the big screen.",
     image: screenshotExpenses,
   },
   {
-    title: 'VAT handling',
+    title: 'Faster and Smarter Artist Driven NFT Creation',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
+      "We work with artists to help them bring their concepts to life, augmented with easy to use tooling integrated with generative machine learning algorithms.",
     image: screenshotVatReturns,
   },
   {
     title: 'Reporting',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
+      'Your development budgets are transparent on-chain.',
     image: screenshotReporting,
   },
 ]
