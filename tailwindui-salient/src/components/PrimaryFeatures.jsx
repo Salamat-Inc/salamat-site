@@ -14,7 +14,7 @@ const features = [
   {
     title: 'Keep your projects budgets on track ',
     description:
-      "We give you tools that allow you to access, edit, and share production costs to keep your project on track.",
+      "We give you tools that allow you to create, access, edit, and share production costs to keep your project on track.",
     image: screenshotPayroll,
   },
   {
