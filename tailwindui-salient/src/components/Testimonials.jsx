@@ -13,17 +13,17 @@ const testimonials = [
       content:
         'TaxPal is so easy to use I can’t help but wonder if it’s really doing the things the government expects me to do.',
       author: {
-        name: 'Sheryl Berge',
-        role: 'CEO at Lynch LLC',
+        name: 'Ardees Rabang',
+        role: 'Chief Prouction Officer (CPO) at Salamat Inc.',
         image: avatarImage1,
       },
     },
     {
       content:
-        'I’m trying to get a hold of someone in support, I’m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.',
+        'Through leveraging the most bleeding-edge technology, we take Hollywood to the metaverse, web3, to massively upgrade the tooling behind the screen of both major Hollywood productions and Silicon Valley tech, change the face of representation on the big screen and small screen. We enable creators to create profitable, immersive, interactive and more engaging experiences with their fans.',
       author: {
-        name: 'Amy Hahn',
-        role: 'Director at Velocity Industries',
+        name: 'Erin Pangilinan',
+        role: 'Co-Founder and Chief Creative Technology Officer (CCTO) at Salamat Inc.',
         image: avatarImage4,
       },
     },
@@ -88,12 +88,10 @@ export function Testimonials() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-            Loved by businesses worldwide.
+            Our all-star team shares the Salamat vision.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Our software is so simple that people can’t help but fall in love
-            with it. Simplicity is easy when you just skip tons of
-            mission-critical features.
+          
           </p>
         </div>
         <ul
