@@ -10,8 +10,13 @@
   },
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
+    "@ethersproject/providers": "^5.6.8",
     "@headlessui/react": "^1.6.5",
     "@tailwindcss/forms": "^0.5.2",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.13",
+    "@web3-react/walletlink-connector": "^6.2.14",
     "autoprefixer": "^10.4.7",
     "clsx": "^1.2.0",
     "focus-visible": "^5.2.0",
@@ -19,7 +24,8 @@
     "postcss-focus-visible": "^6.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "^3.1.4"
+    "tailwindcss": "^3.1.4",
+    "web3-react": "^5.0.5"
   },
   "devDependencies": {
     "eslint": "8.19.0",
